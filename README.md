@@ -1,5 +1,7 @@
 # Improving performance of typia
 
+This repo is a demo of the performance improvement after this PR https://github.com/samchon/typia/pull/663
+
 **Before**
 ```
 zod x 395,806 ops/sec ±0.40% (94 runs sampled)
